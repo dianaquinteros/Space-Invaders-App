@@ -10,6 +10,6 @@
     <content src="index.html" />
     <access origin="*" />
 <plugin name="cordova-plugin-device-motion"/>
-<gap:plugin name=”cordova-plugin-inappbrowser” source=’npm’ />
-<plugin name=”cordova-plugin-whitelist” />
+<gap:plugin name="cordova-plugin-inappbrowser" source='npm'/>
+<plugin name="cordova-plugin-whitelist"/>
 </widget>
