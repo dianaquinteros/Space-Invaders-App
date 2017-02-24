@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="Space Battle" version="1.0.0">
+    <name>Modulo 4, Juego</name>
+    <description>
+        Proyecto, mi primer juego.
+    </description>
+    <author email="diana.quinteros.g@gmail.com" href="http://phonegap.com">
+        Diana Quinteros G
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+<plugin name="cordova-plugin-device-motion"/>
+<gap:plugin name=”cordova-plugin-inappbrowser” source=’npm’ />
+<plugin name=”cordova-plugin-whitelist” />
+</widget>
