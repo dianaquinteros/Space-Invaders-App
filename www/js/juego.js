@@ -199,7 +199,7 @@ var app = {
         
  
 if ('addEventListener' in document) {
-    document.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener('deviceready', function() {
         app.inicio();
     }, false);
 }
